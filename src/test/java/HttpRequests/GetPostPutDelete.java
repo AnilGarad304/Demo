@@ -11,7 +11,7 @@ public class GetPostPutDelete {
 	
 	int id;
 	
-	//CURD Operation 
+	//CURD Operation modified
 	
 	//@Test(priority=1)
 	public void getUsers() {
